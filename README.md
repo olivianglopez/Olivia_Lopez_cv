@@ -1,1 +1,11 @@
-# Olivia_Lopez_cv
+title: Olivia  # You can add your name here
+
+logo: # Use a relative path to logo image 
+
+description: Major in Statistics (B.Sc.) with a Minor in Entrepreneurship # Fix hyphenation 
+
+show_downloads: False # Fix spelling
+
+theme: jekyll-theme-minimal 
+
+email: oliviang.lopez@gmail.com # Allow visitors to contact you
