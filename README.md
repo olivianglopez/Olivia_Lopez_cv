@@ -50,5 +50,4 @@ Coach	 April 2024 – June 2024
 Skills & Interests
 Technical: Microsoft Office, Adobe Photoshop, R, Python
 Language: Fluently bilingual in French and English, Conversational Spanish
-Interests: Travelling, Learning new skills, Team sports, Excelling<img width="552" height="217" alt="image" src="https://github.com/user-attachments/assets/4497b049-65bb-406d-9c33-b35f5b9e4c34" />
-
+Interests: Travelling, Learning new skills, Team sports, Excelling
