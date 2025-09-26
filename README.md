@@ -41,7 +41,7 @@
 -	Serve as an ambassador for the organization to help spread its mission to close the gender gap in tech
 
 **McGill University Filipino Asian Students' Association**
-<br>*Vice President of Eventsc*	 
+<br>*Vice President of Events*	 
 <br>September 2024 – current
 -	Organized and planned events showcasing the rich cultural heritage of the Philippines
 -	Brought events along with my team, such as a kamayan (traditional feast), to fruition for the McGill community
