@@ -40,10 +40,11 @@
 -	Teach young girls the foundations of programming through Python and Scratch
 -	Serve as an ambassador for the organization to help spread its mission to close the gender gap in tech
 
-**Montreal Chinese Hospital Foundation**
-<br>*Gala Committee Exec*	 
-<br>June 2025 – current
--	Organized and planned the Montreal Chinese Foundation Gala Afterparty along with my team, promoting ticket sales and finding vendors
+**McGill University Filipino Asian Students' Association**
+<br>*Vice President of Eventsc*	 
+<br>September 2024 – current
+-	Organized and planned events showcasing the rich cultural heritage of the Philippines
+-	Brought events along with my team, such as a kamayan (traditional feast), to fruition for the McGill community
 
 **The Study – Bantam Flag Football**	Montreal, QC
 <br>*Coach*	 
